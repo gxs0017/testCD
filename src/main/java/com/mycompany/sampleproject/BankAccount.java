@@ -27,6 +27,10 @@ public class BankAccount {
         return "You are owed a balance of $110";
     }
     
+    
+    public String takenote(){
+         return "You are owed a balance of $33330"; 
+    }
     // Nested Class for additional testing purposes
     // Added after Video Making
     public class NestedAccount {
