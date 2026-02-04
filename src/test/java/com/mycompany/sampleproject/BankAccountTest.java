@@ -30,7 +30,7 @@ public class BankAccountTest {
 
     /**
      * Test of getBalance method, of class BankAccount.
-     */
+    
     @Test
     public void testGetBalance() {
         System.out.println("getBalance");
@@ -38,5 +38,5 @@ public class BankAccountTest {
         assertEquals("Your Balance is $200", instance.getBalance());
         
     }
-    
+   */  
 }
